@@ -56,6 +56,7 @@ This Smart Billing System is used by all the Restaurants.
 3) Better customer service
 4) Support payment system
 
+# HIGH LEVEL REQUIREMENTS
 
 
 
