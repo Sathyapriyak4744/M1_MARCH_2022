@@ -1,6 +1,6 @@
-# SMART BILLING SYSTEM FOR CHAT STALL
+# SMART BILLING SYSTEM FOR RESTAURANT
 # INTRODUCTION:
-The project "Smart Billing system" is an automate to odering and billing of a "Chat Stall". This system is a basic program of used in restaurants. The main aim is to perform the process of odering and billing of a "Restaurant". This system is named as "Smart Billing System For Chat Stall". This is designed for a restaurant which wants to attend their customers in a very well manner. This system has the capability of give to the amount. The program is easily executable and can be easily accessed by a user. The system for save the time and decreases the work of the owner of the restaurant.
+The project "Smart Billing system" is an automate to odering and billing of a "Restaurant". This system is a basic program of used in restaurants. The main aim is to perform the process of odering and billing of a "Restaurant". This system is named as "Smart Billing System For Restaurant". This is designed for a restaurant which wants to attend their customers in a very well manner. This system has the capability of give to the amount. The program is easily executable and can be easily accessed by a user. The system for save the time and decreases the work of the owner of the restaurant.
 
 # OBJECTIVES:
 1) To provide a Computer based odering and billing system.
@@ -18,12 +18,57 @@ The project "Smart Billing system" is an automate to odering and billing of a "C
 5) Accuracy and detailed in menu and prices
 # 4W'S and 1H:
 # WHAT
-Restaurants or stall employees use the system give the menu and make the payment.  
+Restaurants employees use the system give the menu and make the payment.
+
 # WHY
-Restaurant billing software enables simply to choose our menu and calclulates tha amount of billing.This system is used for odering and billing purposes.
+Restaurant billing software enables simply to choose our menu and calclulates tha amount of billing.This system is effectively used for odering and billing purposes.
 
 # WHEN
+Smart billing system is the process  of billing and odering, it includes the calculating the amount, made to improve any restaurants with the use of modern technology. 
+
 # WHO
-This Smart Billing System is used by all the restaurants anf stalls.
+This Smart Billing System is used by all the Restaurants.
 
 # HOW
+1. Set of our menus 
+2. Create clear and detailedmenu with their prices
+3. Its refers to the direct billing.
+
+# ANALYSIS
+# ADVANTAGES 
+1) Quick and Easy to manage, use
+3) Automating the time consuming
+4) And track the menu with prices
+5) These remainds make the amount is paid on time.
+6) Faster Billings
+
+ # DISADVANTAGES
+1) Reaching offline Internet makes the process difficult
+2) It is not cost effiective for small business owner
+
+# PURPOSES 
+1) a BILLING SYSTEM emliminates the manual intervention
+2) Its performancereports to the keep track of the bussiness growth
+
+# NEEDS
+1) Simple menu setup.
+2) User friendly oder system
+3) Better customer service
+4) Support payment system
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
