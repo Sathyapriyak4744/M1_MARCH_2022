@@ -13,10 +13,26 @@ system has the capability of give to the amount. The program is easily executabl
 
 # BENIFITS:
 1) Easy way of use
-2) Quick billing
+2) Simpilified accounting
 3) Save Time and Cost maintain
-4) Easy table management
+4) Increased efficiency
+5) Accuracy and detailed in menu and prices 
 
 # 4W'S and 1H:
+# WHAT
+
+
+
+# WHY
+Restaurant billing software enables simply to choose our menu and calclulates tha amount of billing.This system is used for odering and billing purposes. 
+
+# WHEN
+
 # WHO
-This Smart Billing System is used by all the restaurants anf stalls 
+This Smart Billing System is used by all the restaurants anf stalls.
+
+# HOW
+
+
+
+
