@@ -5,6 +5,10 @@ system has the capability of give to the amount. The program is easily executabl
 
 # OBJECTIVES:
 1) To provide a Computer based odering and billing system.
-2) This system is accurate computation of bills. this system is readuce the time. To generate the quanity of foods and their amount and its provide convenient billing method.It is required for cost maintain. The should to be modifiedable depending on the changing needs if the user. 
+2) This system is accurate computation of bills. 
+3) This system is readuce the time. 
+4) To generate the quanity of foods and their amount and its provide convenient billing method.
+5) It is required for cost maintain.
+6) The should to be modifiedable depending on the changing needs if the user. 
 
 # BENIFITS:
