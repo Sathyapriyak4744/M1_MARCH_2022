@@ -18,6 +18,7 @@ The project "Smart Billing system" is an automate to odering and billing of a "C
 5) Accuracy and detailed in menu and prices
 # 4W'S and 1H:
 # WHAT
+Restaurants or stall employees use the system give the menu and make the payment.  
 # WHY
 Restaurant billing software enables simply to choose our menu and calclulates tha amount of billing.This system is used for odering and billing purposes.
 
