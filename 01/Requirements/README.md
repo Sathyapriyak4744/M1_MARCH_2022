@@ -12,4 +12,11 @@ system has the capability of give to the amount. The program is easily executabl
 6) The should to be modifiedable depending on the changing needs if the user. 
 
 # BENIFITS:
-1) 
+1) Easy way of use
+2) Quick billing
+3) Save Time and Cost maintain
+4) Easy table management
+
+# 4W'S and 1H:
+# WHO
+This Smart Billing System is used by all the restaurants anf stalls 
