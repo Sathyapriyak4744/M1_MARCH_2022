@@ -320,11 +320,3 @@ void exit(back)  /// Exit Screen
   getch();
   exit(0);
 }
-
-
-
-
-
-
-
-
