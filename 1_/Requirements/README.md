@@ -1,9 +1,9 @@
 # SMART BILLING SYSTEM FOR RESTAURANT
 # INTRODUCTION:
-The project "Smart Billing system" is an automate to odering and billing of a "Restaurant". This system is a basic program of used in restaurants. The main aim is to perform the process of odering and billing of a "Restaurant". This system is named as "Smart Billing System For Restaurant". This is designed for a restaurant which wants to attend their customers in a very well manner. This system has the capability of give to the amount. The program is easily executable and can be easily accessed by a user. The system for save the time and decreases the work of the owner of the restaurant.
+The project "Smart Billing system" is an automate to ordering and billing of a "Restaurant". This system is a basic program of used in restaurants. The main aim is to perform the process of ordering and billing of a "Restaurant". This system is named as "Smart Billing System For Restaurant". This is designed for a restaurant which wants to attend their customers in a very well manner. This system has the capability of give to the amount. The program is easily executable and can be easily accessed by a user. The system for save the time and decreases the work of the owner of the restaurant.
 
 # OBJECTIVES:
-1) To provide a Computer based odering and billing system.
+1) To provide a Computer based ordering and billing system.
 2) This system is accurate computation of bills.
 3) This system is readuce the time.
 4) To generate the quanity of foods and their amount and its provide convenient billing method.
@@ -24,7 +24,7 @@ Restaurants employees use the system give the menu and make the payment.
 Restaurant billing software enables simply to choose our menu and calclulates tha amount of billing.This system is effectively used for odering and billing purposes.
 
 # WHEN
-Smart billing system is the process  of billing and odering, it includes the calculating the amount, made to improve any restaurants with the use of modern technology. 
+Smart billing system is the process  of billing and ordering, it includes the calculating the amount, made to improve any restaurants with the use of modern technology. 
 
 # WHO
 This Smart Billing System is used by all the Restaurants.
@@ -52,7 +52,7 @@ This Smart Billing System is used by all the Restaurants.
 
 # NEEDS
 1) Simple menu setup.
-2) User friendly oder system
+2) User friendly order system
 3) Better customer service
 4) Support payment system
 
